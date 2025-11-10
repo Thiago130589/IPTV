@@ -1,0 +1,232 @@
+/* REGRAS OBRIGATÓRIAS: Manter adaptação celular e não remover/alterar classes cruciais */
+:root {
+    --primary-color: #007bff;
+    --secondary-color: #28a745;
+    --background-color: #f4f4f9;
+    --card-background: #ffffff;
+    --text-color: #333;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    box-sizing: border-box;
+}
+
+.container-principal {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+/* Header e Input */
+.header-container {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+h1 {
+    color: var(--primary-color);
+    font-size: 1.5em; /* Bom tamanho para mobile */
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+/* Container do Input de Arquivo */
+.input-url {
+    display: flex;
+    flex-direction: column; /* Organiza label e input verticalmente no mobile */
+    gap: 10px;
+    align-items: flex-start;
+}
+
+.input-url .file-label {
+    font-weight: bold;
+    color: var(--text-color);
+    font-size: 0.9em;
+}
+
+#m3uFile {
+    /* Estilização básica para o input de arquivo */
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #e9ecef;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+/* --- O restante do CSS do player e lista continua o mesmo --- */
+
+/* Main Content (Empilhado no Mobile) */
+.main-content {
+    display: flex;
+    flex-direction: column; /* Colunas empilhadas no mobile */
+    gap: 20px;
+}
+
+.player-column, .channel-list-column {
+    width: 100%;
+}
+
+/* Player Responsivo */
+.video-container {
+    width: 100%;
+    position: relative;
+    padding-top: 56.25%; /* Proporção 16:9 */
+    background-color: #000;
+}
+
+#media-player {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+/* Controles e Favoritos */
+.player-controls-custom {
+    display: flex;
+    flex-wrap: wrap; /* Permite que os botões quebrem a linha no mobile */
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+    background-color: var(--card-background);
+    border-radius: 0 0 8px 8px;
+    padding: 10px;
+}
+
+#current-channel-name {
+    flex-basis: 100%; /* Ocupa a linha toda no mobile */
+    font-size: 1.1em;
+    margin: 5px 0 10px 0;
+    color: var(--primary-color);
+}
+
+.player-controls-custom button {
+    padding: 8px 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.9em;
+    flex-grow: 1;
+    margin-right: 5px; /* Espaçamento entre botões */
+}
+
+#favorite-button {
+    background-color: #ffc107;
+    color: var(--text-color);
+}
+
+#favorite-button.active {
+    background-color: #dc3545; /* Vermelho quando favoritado */
+    color: white;
+}
+
+#cast-button {
+    background-color: #6c757d;
+    color: white;
+}
+
+/* Lista de Canais */
+.channel-list-column {
+    background-color: var(--card-background);
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.search-container {
+    margin-bottom: 10px;
+}
+
+#channelSearch {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+/* Abas */
+.tabs-container {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.tab {
+    flex-grow: 1;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-bottom: none;
+    background-color: #e9ecef;
+    cursor: pointer;
+}
+
+.tab.active {
+    background-color: var(--card-background);
+    border-bottom: 1px solid var(--card-background);
+    font-weight: bold;
+}
+
+#channelList {
+    list-style: none;
+    padding: 0;
+    max-height: 400px; /* Limite de altura para scroll no mobile */
+    overflow-y: auto;
+    border-top: 1px solid #eee;
+}
+
+#channelList li {
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#channelList li:hover {
+    background-color: #e9ecef;
+}
+
+#channelList li.favorite-item {
+    background-color: #fff9e6; /* Destaque para favoritos na lista "Todos" */
+}
+
+/* Media Query para Layout de Desktop/Tablet */
+@media (min-width: 768px) {
+    .container-principal {
+        max-width: 1200px;
+    }
+    
+    .main-content {
+        flex-direction: row; /* Colunas lado a lado no desktop */
+    }
+    
+    .player-column {
+        flex: 3; /* Player ocupa mais espaço */
+    }
+    
+    .channel-list-column {
+        flex: 1; /* Lista ocupa menos espaço, aparece na lateral */
+    }
+
+    #current-channel-name {
+        flex-basis: auto;
+        margin: 0;
+    }
+
+    .player-controls-custom {
+        padding: 10px;
+    }
+
+    .player-controls-custom button {
+        flex-grow: 0;
+    }
+}
