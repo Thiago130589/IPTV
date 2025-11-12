@@ -1,8 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://cdn.ome.lt/extras/capas/ligaPosterNacional.jpg" group-title="Filmes Lançamentos", Liga da Justiça
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1762951154/ei/kisUacelH_fb-LAPjaLK2Qc/ip/2804:2984:9514:4d00:8dc3:98af:f78e:91bf/id/9d49f364293a5227/itag/229/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgovp/clen%3D1518841%3Bdur%3D142.016%3Bgir%3Dyes%3Bitag%3D133%3Blmt%3D1759359727669855/rqh/1/hls_chunk_host/rr2---sn-qvoxuxaxjvh-2v5l.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/cps/0/met/1762929554,/mh/oZ/mm/31,29/mn/sn-qvoxuxaxjvh-2v5l,sn-bg0s7n7e/ms/au,rdu/mv/m/mvi/2/pl/46/rms/au,au/initcwndbps/1876250/bui/AdEuB5SKl4h81wZObzQq-eCVUYxZT2Kfuc5Bl1XADAsri0dyJLCtmKajyn7Jq5GbGKYJilPeqJ8Q_IH8/spc/6b0G_P6CqRGZqVMfrBYefp9GAynNp5-nxCQSp2mPC2uXGdyhsg9Teise8-j1isN5/vprv/1/playlist_type/DVR/dover/13/txp/5432534/mt/1762928941/fvip/5/short_key/1/keepalive/yes/fexp/51552689,51565116,51565682,51580968/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgLrowl4MkpLDHbRSU-zP39ss_HIBqbLd1ORI9IAOsfZUCIBjAlf6_Lg6_r8PY-03rW6N2EHDMx5ii27IL8fUuC_6A/lsparams/hls_chunk_host,cps,met,mh,mm,mn,ms,mv,mvi,pl,rms,initcwndbps/lsig/APaTxxMwRQIgPjqp6CQAYuxX5OhkKDmsxHEYxA5Tr_B2SzHAFJ8uPhoCIQDdrAkD9t3YX9DXJn7EHYCxHDYMmxW2nezHvCSQI3jqHA%3D%3D/playlist/index.m3u8
 
 
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD ²" tvg-logo="http://1.bp.blogspot.com/-KVAJJtXKXUE/XmQOw0jLTMI/AAAAAAAACRo/GORUzAEatRU7S0MPBE7yXcIRsXTYmwN0QCK4BGAYYCw/s400/A%2526E.png" group-title="CANAIS: FILMES E SÉRIES",A&E HD ²
