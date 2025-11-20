@@ -741,28 +741,28 @@ https://cam4-hls.xcdnpro.com/318/cam4-origin-live/Elly_Miller-318-8fc8ab1d-037f-
 
 
 
-#EXTINF:-1 tvg-id="1" tvg-name="CAMERA" tvg-logo="" group-title="YOOSEE",CAMERA
+#EXTINF:-1 tvg-id="1" tvg-name="CAMERA1" tvg-logo="" group-title="YOOSEE",CAMERA
 rtsp://admin:Thiago123@192.168.100.8:554/onvif1
 
-#EXTINF:-1 tvg-id="2" tvg-name="CAMERA" tvg-logo="" group-title="YOOSEE",CAMERA
+#EXTINF:-1 tvg-id="2" tvg-name="CAMERA2" tvg-logo="" group-title="YOOSEE",CAMERA
 rtsp://admin:Thiago123@192.168.100.8:554/onvif2
 
-#EXTINF:-1 tvg-id="3" tvg-name="CAMERA" tvg-logo="" group-title="YOOSEE",CAMERA
+#EXTINF:-1 tvg-id="3" tvg-name="CAMERA3" tvg-logo="" group-title="YOOSEE",CAMERA
 rtsp://admin:Thiago123@192.168.100.8:554/av0_0
 
-#EXTINF:-1 tvg-id="4" tvg-name="CAMERA" tvg-logo="" group-title="YOOSEE",CAMERA
+#EXTINF:-1 tvg-id="4" tvg-name="CAMERA4" tvg-logo="" group-title="YOOSEE",CAMERA
 rtsp://admin:Thiago123@192.168.100.8:554/av0_1
 
-#EXTINF:-1 tvg-id="5" tvg-name="CAMERA" tvg-logo="" group-title="YOOSEE",CAMERA
+#EXTINF:-1 tvg-id="5" tvg-name="CAMERA5" tvg-logo="" group-title="YOOSEE",CAMERA
 rtsp://admin:Thiago123@192.168.100.8:554/live/ch00_0
 
-#EXTINF:-1 tvg-id="6" tvg-name="CAMERA" tvg-logo="" group-title="YOOSEE",CAMERA
+#EXTINF:-1 tvg-id="6" tvg-name="CAMERA6" tvg-logo="" group-title="YOOSEE",CAMERA
 rtsp://admin:Thiago123@192.168.100.8:554/live/ch00_1
 
-#EXTINF:-1 tvg-id="7" tvg-name="CAMERA" tvg-logo="" group-title="YOOSEE",CAMERA
+#EXTINF:-1 tvg-id="7" tvg-name="CAMERA7" tvg-logo="" group-title="YOOSEE",CAMERA
 rtsp://admin:Thiago123@192.168.100.8:554/stream1
 
-#EXTINF:-1 tvg-id="8" tvg-name="CAMERA" tvg-logo="" group-title="YOOSEE",CAMERA
+#EXTINF:-1 tvg-id="8" tvg-name="CAMERA8" tvg-logo="" group-title="YOOSEE",CAMERA
 rtsp://admin:Thiago123@192.168.100.8:554/stream2
 
 
