@@ -741,39 +741,8 @@ https://cam4-hls.xcdnpro.com/318/cam4-origin-live/Elly_Miller-318-8fc8ab1d-037f-
 
 
 
-#EXTINF:-1 tvg-id="1" tvg-name="CAMERA1" tvg-logo="" group-title="YOOSEE",CAMERA1
-rtsp://192.168.100.8:554/onvif1?user=admin&password=Thiago123
-
-#EXTINF:-1 tvg-id="2" tvg-name="CAMERA2" tvg-logo="" group-title="YOOSEE",CAMERA2
-rtsp://192.168.100.8:554/onvif2?user=admin&password=Thiago123
-
-#EXTINF:-1 tvg-id="3" tvg-name="CAMERA3" tvg-logo="" group-title="YOOSEE",CAMERA3
-rtsp://192.168.100.8:554/av0_0?user=admin&password=Thiago123
-
-#EXTINF:-1 tvg-id="4" tvg-name="CAMERA4" tvg-logo="" group-title="YOOSEE",CAMERA4
-rtsp://192.168.100.8:554/av0_1?user=admin&password=Thiago123
-
-#EXTINF:-1 tvg-id="5" tvg-name="CAMERA5" tvg-logo="" group-title="YOOSEE",CAMERA5
-rtsp://192.168.100.8:554/live/ch00_0?user=admin&password=Thiago123
-
-#EXTINF:-1 tvg-id="6" tvg-name="CAMERA6" tvg-logo="" group-title="YOOSEE",CAMERA6
-rtsp://192.168.100.8:554/live/ch00_1?user=admin&password=Thiago123
-
-
-#EXTINF:-1 tvg-id="7" tvg-name="CAMERA7" tvg-logo="" group-title="YOOSEE",CAMERA7
-rtsp://192.168.100.8:554/live/0?user=admin&password=Thiago123
-
-#EXTINF:-1 tvg-id="8" tvg-name="CAMERA8" tvg-logo="" group-title="YOOSEE",CAMERA8
-rtsp://192.168.100.8:554/live/1?user=admin&password=Thiago123
+#EXTINF:-1 tvg-id="1" tvg-name="HENTAI1" tvg-logo="" group-title="HENTAI"
+https://raw.githubusercontent.com/Thiago130589/IPTV/refs/heads/main/HENTAI
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="Scarlett" group-title="OnlyFans",
-https://cam4-hls.xcdnpro.com/317/cam4-origin-live/BBWCloe_-317-f4675a69-2c49-4e43-a94e-590811e38666_aac/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="Scarlett" group-title="OnlyFans",
-https://edge11-bog.live.mmcdn.com/live-hls/amlst:gina_akemi-sd-f014eafb945cc70f93a46af775d827966e9e2aff4defd86327ae626f4f931870_trns_h264/chunklist_w964665516_b448000_t64RlBTOjMwLjA=.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="Scarlett" group-title="OnlyFans",
-https://cam4-hls.xcdnpro.com/317/cam4-origin-live/NinaCapelli_-317-f21e5e4c-2d3d-4399-8bfc-91eb132f645b_aac/chunklist.m3u8
