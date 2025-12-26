@@ -1,538 +1,213 @@
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="BR: A&E" tvg-logo="" group-title="Brazilian Channel",BR: A&E
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3697
+#EXTINF:-1 tvg-ID="" tvg-name="BR: AMC HD" tvg-logo="" group-title="Brazilian Channel",BR: AMC HD
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/53247
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Animal Planet" tvg-logo="" group-title="Brazilian Channel",BR: Animal Planet
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3826
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Arte 1" tvg-logo="" group-title="Brazilian Channel",BR: Arte 1
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3983
+#EXTINF:-1 tvg-ID="" tvg-name="BR: AXN" tvg-logo="" group-title="Brazilian Channel",BR: AXN
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3698
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Band" tvg-logo="" group-title="Brazilian Channel",BR: Band
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3545
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Band News" tvg-logo="" group-title="Brazilian Channel",BR: Band News
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3700
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Band Sports" tvg-logo="" group-title="Brazilian Channel",BR: Band Sports
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3699
+#EXTINF:-1 tvg-ID="" tvg-name="BR: BIS HD" tvg-logo="" group-title="Brazilian Channel",BR: BIS HD
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/53229
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Boomerang" tvg-logo="" group-title="Brazilian Channel",BR: Boomerang
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3544
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Canal Brasil" tvg-logo="" group-title="Brazilian Channel",BR: Canal Brasil
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3237
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Sony Channel" tvg-logo="" group-title="Brazilian Channel",BR: Sony Channel
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/47493
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Cartoon Network" tvg-logo="" group-title="Brazilian Channel",BR: Cartoon Network
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3840
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Cinemax" tvg-logo="" group-title="Brazilian Channel",BR: Cinemax
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3228
+#EXTINF:-1 tvg-ID="" tvg-name="BR: CNN BRASIL HD" tvg-logo="" group-title="Brazilian Channel",BR: CNN BRASIL HD
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/53231
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Combate" tvg-logo="" group-title="Brazilian Channel",BR: Combate
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3543
+#EXTINF:-1 tvg-ID="" tvg-name="BR: COMEDY CENTRAL HD" tvg-logo="" group-title="Brazilian Channel",BR: COMEDY CENTRAL HD
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/53232
+#EXTINF:-1 tvg-ID="" tvg-name="BR: CULTURA HD" tvg-logo="" group-title="Brazilian Channel",BR: CULTURA HD
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/52844
+#EXTINF:-1 tvg-ID="" tvg-name="BR: CURTA! HD" tvg-logo="" group-title="Brazilian Channel",BR: CURTA! HD
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/53233
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Discovery H&H" tvg-logo="" group-title="Brazilian Channel",BR: Discovery H&H
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3540
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Discovery Kids" tvg-logo="" group-title="Brazilian Channel",BR: Discovery Kids
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/47501
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Discovery Science" tvg-logo="" group-title="Brazilian Channel",BR: Discovery Science
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3538
+#EXTINF:-1 tvg-ID="" tvg-name="BR: DISCOVERY THEATER HD" tvg-logo="" group-title="Brazilian Channel",BR: DISCOVERY THEATER HD
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/53234
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Discovery Turbo" tvg-logo="" group-title="Brazilian Channel",BR: Discovery Turbo
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3537
+#EXTINF:-1 tvg-ID="" tvg-name="BR: DISCOVERY WORLD FHD" tvg-logo="" group-title="Brazilian Channel",BR: DISCOVERY WORLD FHD
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/53235
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Disney Channel" tvg-logo="" group-title="Brazilian Channel",BR: Disney Channel
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3695
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Disney Junior" tvg-logo="" group-title="Brazilian Channel",BR: Disney Junior
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3696
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Disney XD" tvg-logo="" group-title="Brazilian Channel",BR: Disney XD
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3839
+#EXTINF:-1 tvg-ID="" tvg-name="BR: E!" tvg-logo="" group-title="Brazilian Channel",BR: E!
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/47507
+#EXTINF:-1 tvg-ID="" tvg-name="BR: ESPN 2 HD" tvg-logo="" group-title="Brazilian Channel",BR: ESPN 2 HD
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/52812
+#EXTINF:-1 tvg-ID="" tvg-name="BR: ESPN Brasil Sport" tvg-logo="" group-title="Brazilian Channel",BR: ESPN Brasil Sport
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3841
+#EXTINF:-1 tvg-ID="" tvg-name="BR: ESPN EXTRA HD" tvg-logo="" group-title="Brazilian Channel",BR: ESPN EXTRA HD
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/52813
+#EXTINF:-1 tvg-ID="" tvg-name="BR: ESPN HD" tvg-logo="" group-title="Brazilian Channel",BR: ESPN HD
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/52817
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Fish TV" tvg-logo="" group-title="Brazilian Channel",BR: Fish TV
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3703
+#EXTINF:-1 tvg-ID="" tvg-name="BR: FOOD NETWORK HD" tvg-logo="" group-title="Brazilian Channel",BR: FOOD NETWORK HD
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/53256
+#EXTINF:-1 tvg-ID="" tvg-name="BR: FOX Crime" tvg-logo="" group-title="Brazilian Channel",BR: FOX Crime
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3535
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Fox Life" tvg-logo="" group-title="Brazilian Channel",BR: Fox Life
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3705
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Fox Sports" tvg-logo="" group-title="Brazilian Channel",BR: Fox Sports
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3533
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Fox Sports 2" tvg-logo="" group-title="Brazilian Channel",BR: Fox Sports 2
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3534
+#EXTINF:-1 tvg-ID="" tvg-name="BR: FX" tvg-logo="" group-title="Brazilian Channel",BR: FX
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3836
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Globo News" tvg-logo="" group-title="Brazilian Channel",BR: Globo News
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/47517
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Globo RJ HD" tvg-logo="" group-title="Brazilian Channel",BR: Globo RJ HD
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/52814
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Globo SP" tvg-logo="" group-title="Brazilian Channel",BR: Globo SP
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3242
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Gloob" tvg-logo="" group-title="Brazilian Channel",BR: Gloob
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3982
+#EXTINF:-1 tvg-ID="" tvg-name="BR: GNT HD" tvg-logo="" group-title="Brazilian Channel",BR: GNT HD
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/53236
+#EXTINF:-1 tvg-ID="" tvg-name="BR: H2" tvg-logo="" group-title="Brazilian Channel",BR: H2
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3835
+#EXTINF:-1 tvg-ID="" tvg-name="BR: HBO" tvg-logo="" group-title="Brazilian Channel",BR: HBO
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3708
+#EXTINF:-1 tvg-ID="" tvg-name="BR: HBO 2" tvg-logo="" group-title="Brazilian Channel",BR: HBO 2
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3709
+#EXTINF:-1 tvg-ID="" tvg-name="BR: HBO Family" tvg-logo="" group-title="Brazilian Channel",BR: HBO Family
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3710
+#EXTINF:-1 tvg-ID="" tvg-name="BR: HBO MUNDI HD" tvg-logo="" group-title="Brazilian Channel",BR: HBO MUNDI HD
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/53237
+#EXTINF:-1 tvg-ID="" tvg-name="BR: HBO +" tvg-logo="" group-title="Brazilian Channel",BR: HBO +
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3711
+#EXTINF:-1 tvg-ID="" tvg-name="BR: HBO POP HD" tvg-logo="" group-title="Brazilian Channel",BR: HBO POP HD
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/53238
+#EXTINF:-1 tvg-ID="" tvg-name="BR: HBO Signature" tvg-logo="" group-title="Brazilian Channel",BR: HBO Signature
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3712
+#EXTINF:-1 tvg-ID="" tvg-name="BR: HBO XTREME HD" tvg-logo="" group-title="Brazilian Channel",BR: HBO XTREME HD
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/53239
+#EXTINF:-1 tvg-ID="" tvg-name="BR: HGTV HD" tvg-logo="" group-title="Brazilian Channel",BR: HGTV HD
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/53240
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Investigation Discovery" tvg-logo="" group-title="Brazilian Channel",BR: Investigation Discovery
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/47525
+#EXTINF:-1 tvg-ID="" tvg-name="BR: LIFETIME HD" tvg-logo="" group-title="Brazilian Channel",BR: LIFETIME HD
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/53241
+#EXTINF:-1 tvg-ID="" tvg-name="BR: MegaPix" tvg-logo="" group-title="Brazilian Channel",BR: MegaPix
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3980
+#EXTINF:-1 tvg-ID="" tvg-name="BR: MULTISHOW HD" tvg-logo="" group-title="Brazilian Channel",BR: MULTISHOW HD
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/53242
+#EXTINF:-1 tvg-ID="" tvg-name="BR: National Geographic" tvg-logo="" group-title="Brazilian Channel",BR: National Geographic
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3528
+#EXTINF:-1 tvg-ID="" tvg-name="BR: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="" group-title="Brazilian Channel",BR: NATIONAL GEOGRAPHIC WILD HD
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/53243
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Nick Jr" tvg-logo="" group-title="Brazilian Channel",BR: Nick Jr
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3526
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Nickelodeon" tvg-logo="" group-title="Brazilian Channel",BR: Nickelodeon
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3527
+#EXTINF:-1 tvg-ID="" tvg-name="BR: OFF HD" tvg-logo="" group-title="Brazilian Channel",BR: OFF HD
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/53245
+#EXTINF:-1 tvg-ID="" tvg-name="BR: PARAMOUNT CHANNEL HD" tvg-logo="" group-title="Brazilian Channel",BR: PARAMOUNT CHANNEL HD
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/53246
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Premiere 1 HD" tvg-logo="" group-title="Brazilian Channel",BR: Premiere 1 HD
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/51469
+#EXTINF:-1 tvg-ID="" tvg-name="BR: PREMIERE CLUBES HD" tvg-logo="" group-title="Brazilian Channel",BR: PREMIERE CLUBES HD
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/50797
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Record News" tvg-logo="" group-title="Brazilian Channel",BR: Record News
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3833
+#EXTINF:-1 tvg-ID="" tvg-name="BR: RECORD SP " tvg-logo="" group-title="Brazilian Channel",BR: RECORD SP 
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/53248
+#EXTINF:-1 tvg-ID="" tvg-name="BR: REDE TV HD" tvg-logo="" group-title="Brazilian Channel",BR: REDE TV HD
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/53249
+#EXTINF:-1 tvg-ID="" tvg-name="BR: SBT HD" tvg-logo="" group-title="Brazilian Channel",BR: SBT HD
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/53250
+#EXTINF:-1 tvg-ID="" tvg-name="BR: SONY HD" tvg-logo="" group-title="Brazilian Channel",BR: SONY HD
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/53251
+#EXTINF:-1 tvg-ID="" tvg-name="BR: SPACE" tvg-logo="" group-title="Brazilian Channel",BR: SPACE
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/51203
+#EXTINF:-1 tvg-ID="" tvg-name="BR: SporTV" tvg-logo="" group-title="Brazilian Channel",BR: SporTV
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3854
+#EXTINF:-1 tvg-ID="" tvg-name="BR: SporTV 2" tvg-logo="" group-title="Brazilian Channel",BR: SporTV 2
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3855
+#EXTINF:-1 tvg-ID="" tvg-name="BR: SporTV 3" tvg-logo="" group-title="Brazilian Channel",BR: SporTV 3
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3856
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Record RJ" tvg-logo="" group-title="Brazilian Channel",BR: Record RJ
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/53041
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Record Nordeste" tvg-logo="" group-title="Brazilian Channel",BR: Record Nordeste
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/53042
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Studio Universal" tvg-logo="" group-title="Brazilian Channel",BR: Studio Universal
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/47541
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Syfy" tvg-logo="" group-title="Brazilian Channel",BR: Syfy
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3989
+#EXTINF:-1 tvg-ID="" tvg-name="BR: TCM" tvg-logo="" group-title="Brazilian Channel",BR: TCM
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3831
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Telecine Action" tvg-logo="" group-title="Brazilian Channel",BR: Telecine Action
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3714
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Telecine Cult" tvg-logo="" group-title="Brazilian Channel",BR: Telecine Cult
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3715
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Telecine Fun" tvg-logo="" group-title="Brazilian Channel",BR: Telecine Fun
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3716
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Telecine Pipoca FHD" tvg-logo="" group-title="Brazilian Channel",BR: Telecine Pipoca FHD
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/47547
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Telecine Premium" tvg-logo="" group-title="Brazilian Channel",BR: Telecine Premium
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3718
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Telecine Touch" tvg-logo="" group-title="Brazilian Channel",BR: Telecine Touch
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3719
+#EXTINF:-1 tvg-ID="" tvg-name="BR: History Channel" tvg-logo="" group-title="Brazilian Channel",BR: History Channel
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3530
+#EXTINF:-1 tvg-ID="" tvg-name="BR: TNT SERIES HD" tvg-logo="" group-title="Brazilian Channel",BR: TNT SERIES HD
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/53252
+#EXTINF:-1 tvg-ID="" tvg-name="BR: TNT SPORTS" tvg-logo="" group-title="Brazilian Channel",BR: TNT SPORTS
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3829
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Tooncast" tvg-logo="" group-title="Brazilian Channel",BR: Tooncast
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3519
+#EXTINF:-1 tvg-ID="" tvg-name="BR: TV Brasil" tvg-logo="" group-title="Brazilian Channel",BR: TV Brasil
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3857
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Universal Channel" tvg-logo="" group-title="Brazilian Channel",BR: Universal Channel
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3518
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Terra Viva HD" tvg-logo="" group-title="Brazilian Channel",BR: Terra Viva HD
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/53255
+#EXTINF:-1 tvg-ID="" tvg-name="BR: WARNER CHANNEL HD" tvg-logo="" group-title="Brazilian Channel",BR: WARNER CHANNEL HD
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/53254
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Woohoo Brasil" tvg-logo="" group-title="Brazilian Channel",BR: Woohoo Brasil
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3985
+#EXTINF:-1 tvg-ID="" tvg-name="BR: ZOOMOO kids HD" tvg-logo="" group-title="Brazilian Channel",BR: ZOOMOO kids HD
+http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/53253
 
 
 
-
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD ²" tvg-logo="http://1.bp.blogspot.com/-KVAJJtXKXUE/XmQOw0jLTMI/AAAAAAAACRo/GORUzAEatRU7S0MPBE7yXcIRsXTYmwN0QCK4BGAYYCw/s400/A%2526E.png" group-title="CANAIS: FILMES E SÉRIES",A&E HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35225
-
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD ²" tvg-logo="http://2.bp.blogspot.com/-nBtQ5UkiBI4/XmQcIAhLVYI/AAAAAAAACSk/posGzR9eqD4zllrPY3vGIk6wsFYBJtlRQCK4BGAYYCw/s400/AXN.png" group-title="CANAIS: FILMES E SÉRIES",AXN HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35229
-
-
-#EXTINF:-1 tvg-id="amc.brasil.br" tvg-name="AMC HD ²" tvg-logo="http://4.bp.blogspot.com/-BmCyUz8X3A0/XmQWD7ze5gI/AAAAAAAACSA/_d2wlKKsAHYzfU44Qc98JkHlJtpB724-gCK4BGAYYCw/s400/AMC.png" group-title="CANAIS: FILMES E SÉRIES",AMC HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35227
-
-
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://topxz.live/logos/Documentarios/ANIMAL_PLANET.png" group-title="CANAIS: DOCUMENTÁRIOS",ANIMAL PLANET HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/304492
-
-#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 HD " tvg-logo="http://topxz.live/logos/VARIEDADES/ARTE.png" group-title="CANAIS: FILMES E SÉRIES",ARTE 1 HD 
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/67511
-
-#EXTINF:-1 tvg-id="band.rio.grande.do.sul.br" tvg-name="BAND RS HD" tvg-logo="http://1.bp.blogspot.com/-7wD5BCJxD9Y/Xk70MQFgPEI/AAAAAAAACDQ/BpR4PcQ1ou48cOLmC77yc1mz9xkZ0zssgCLcBGAsYHQ/s1600/band_2.png" group-title="CANAIS: BAND",BAND RS HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/72575
-
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="BAND SPORTS HD ¹" tvg-logo="http://1.bp.blogspot.com/-w_-8bx1hzcI/XmUJ5N5F7VI/AAAAAAAACVA/xJhpJpOiCMEJfcx7tucUtNqdLs53IFp-QCK4BGAYYCw/s400/BAND%2BSPORT.png" group-title="CANAIS: ESPORTES",BAND SPORTS HD ¹
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30064
-
-#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS HD ²" tvg-logo="http://1.bp.blogspot.com/-gKeB31JX8Xo/Xk70NkypJQI/AAAAAAAACDY/WvdRe4gJKEUygQHJTlYRheW18D3S3WGDwCLcBGAsYHQ/s1600/bandnews.png" group-title="CANAIS: NOTÍCIAS",BAND NEWS HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30171
-
-#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWOORK HD ²" tvg-logo="http://1.bp.blogspot.com/-aondLW2i3Nw/Xk70ObLd84I/AAAAAAAACDk/UaL7ElNQW-AaFhG-9gEv2FSWp28Cci5hACLcBGAsYHQ/s1600/cartoonnetwork.png" group-title="CANAIS: INFANTIS",CARTOON NETWOORK HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/38016
-
-#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="CARTOONITO HD ²" tvg-logo="http://1.bp.blogspot.com/-n17CiRTaCyE/Xk70Nj_rjpI/AAAAAAAACDc/TsDf_fpQBlosivwrkLjoygIHYogbaV70ACLcBGAsYHQ/s1600/boomerang.png" group-title="CANAIS: INFANTIS",CARTOONITO HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/106287
-
-#EXTINF:-1 tvg-id="plus.globosat.br" tvg-name="MAIS NA TELA" tvg-logo="http://lh3.googleusercontent.com/-156xqW-BlXM/YB2LVcPyC2I/AAAAAAAAJ8g/A3bYkrKjqi09DknAXLGchXNkyH-SmMmSACLcBGAsYHQ/Mais%2BGlobosat.png" group-title="CANAIS: VARIEDADES",MAIS NA TELA
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/93916
-
-#EXTINF:-1 tvg-id="plus.globosat.br" tvg-name="MODO VIAGEM HD" tvg-logo="http://lh3.googleusercontent.com/-156xqW-BlXM/YB2LVcPyC2I/AAAAAAAAJ8g/A3bYkrKjqi09DknAXLGchXNkyH-SmMmSACLcBGAsYHQ/Mais%2BGlobosat.png" group-title="CANAIS: VARIEDADES",MODO VIAGEM HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/92649
-
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="http://4.bp.blogspot.com/-1lBy2BsVKo8/XmP52js4MKI/AAAAAAAACPM/DGdF4eWF2igS-O3RBpQ7TDZjTSCGA9anACK4BGAYYCw/s400/BIS.png" group-title="CANAIS: VARIEDADES",BIS HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8681
-
-
-#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL HD ²" tvg-logo="http://1.bp.blogspot.com/-Nbl1xKywDX4/Xk70PRed9GI/AAAAAAAACDw/0MAoqSfWmZIhGxK8iGzKN3Q0HjHS-bYOgCLcBGAsYHQ/s1600/comedycentral.png" group-title="CANAIS: FILMES E SÉRIES",COMEDY CENTRAL HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35235
-
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD ²" tvg-logo="http://2.bp.blogspot.com/-Pv-Nhnad2FE/XmQd6C0TObI/AAAAAAAACS8/bIFwGCAlgyQPppDIppaHqzF4js5Z4F4aQCK4BGAYYCw/s400/CINEMAX.png" group-title="CANAIS: FILMES E SÉRIES",CINEMAX HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35233
-
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL HD ²" tvg-logo="http://vignette.wikia.nocookie.net/tvpediabrasil/images/c/c0/Canalbrasil.jpg/revision/latest?cb=20171106204353&path-prefix=pt-br" group-title="CANAIS: FILMES E SÉRIES",CANAL BRASIL HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35231
-
-#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL HD ²" tvg-logo="http://acstatic.co/logos/canais/cnn.png" group-title="CANAIS: NOTÍCIAS",CNN BRASIL HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30167
-
-#EXTINF:-1 tvg-id="" tvg-name="UOL HD" tvg-logo="http://blog.publicidade.uol.com.br/wp-content/uploads/2024/10/canal-uol-lancamento.jpeg" group-title="CANAIS: NOTÍCIAS",UOL HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594602
-
-#EXTINF:-1 tvg-id="Jpnews.br" tvg-name="JOVEM PAN NEWS HD" tvg-logo="http://logocanais.ddns.net/Logo/jp.png" group-title="CANAIS: NOTÍCIAS",JOVEM PAN NEWS HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/107918
-
-#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN HD ¹" tvg-logo="http://logocanais.ddns.net/Logo/jp.png" group-title="CANAIS: NOTÍCIAS",JOVEM PAN HD ¹
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/167985
-
-#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD ²" tvg-logo="http://1.bp.blogspot.com/-ya115tslPUU/Xk70OyJbtYI/AAAAAAAACDs/dp5hFTRJ54cf0cv0c855d-MKSr5ov_-xgCLcBGAsYHQ/s1600/combate.png" group-title="CANAIS: ESPORTES",COMBATE HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30067
-
-#EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA ²" tvg-logo="http://topxz.live/logos/VARIEDADES/CURTA.png" group-title="CANAIS: VARIEDADES",CURTA ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13507
-
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01" tvg-logo="http://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CANAIS: CINE SKY",CINE SKY 01
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13071
-
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02" tvg-logo="http://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CANAIS: CINE SKY",CINE SKY 02
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13072
-
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03" tvg-logo="http://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CANAIS: CINE SKY",CINE SKY 03
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13073
-
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05" tvg-logo="http://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CANAIS: CINE SKY",CINE SKY 05
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13075
-
-#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 01" tvg-logo="http://www.imgu.top/logos/nosso-futebol250.png" group-title="CANAIS: PPV / ESPORTES",NOSSO FUTEBOL 01
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/227505
-
-#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 02" tvg-logo="http://www.imgu.top/logos/nosso-futebol250.png" group-title="CANAIS: PPV / ESPORTES",NOSSO FUTEBOL 02
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/227506
-
-#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 03" tvg-logo="http://www.imgu.top/logos/nosso-futebol250.png" group-title="CANAIS: PPV / ESPORTES",NOSSO FUTEBOL 03
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/227508
-
-#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV HD" tvg-logo="http://imgu.top/logos/cazetv.png" group-title="CANAIS: PPV / ESPORTES",CAZÉ TV HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/227520
-
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT + 1" tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" group-title="CANAIS: PARAMOUNT +",PARAMOUNT + 1
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/240737
-
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT + 2" tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" group-title="CANAIS: PARAMOUNT +",PARAMOUNT + 2
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/240739
-
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT + 3" tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" group-title="CANAIS: PARAMOUNT +",PARAMOUNT + 3
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/295698
-
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT + 4" tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" group-title="CANAIS: PARAMOUNT +",PARAMOUNT + 4
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/295699
-
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT + 5" tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" group-title="CANAIS: PARAMOUNT +",PARAMOUNT + 5
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/295700
-
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT + 6" tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" group-title="CANAIS: PARAMOUNT +",PARAMOUNT + 6
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/295701
-
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT + 7" tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" group-title="CANAIS: PARAMOUNT +",PARAMOUNT + 7
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/295702
-
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT + 8" tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" group-title="CANAIS: PARAMOUNT +",PARAMOUNT + 8
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/295703
-
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT + 9" tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" group-title="CANAIS: PARAMOUNT +",PARAMOUNT + 9
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/295704
-
-#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 01" tvg-logo="http://topxz.live/logos/PPV/PrimeVideo.png" group-title="CANAIS: PRIME VIDEO",PRIME VIDEO 01
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/292698
-
-#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 02" tvg-logo="http://topxz.live/logos/PPV/PrimeVideo.png" group-title="CANAIS: PRIME VIDEO",PRIME VIDEO 02
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/121180
-
-#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 03" tvg-logo="http://topxz.live/logos/PPV/PrimeVideo.png" group-title="CANAIS: PRIME VIDEO",PRIME VIDEO 03
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/121216
-
-#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 04" tvg-logo="http://topxz.live/logos/PPV/PrimeVideo.png" group-title="CANAIS: PRIME VIDEO",PRIME VIDEO 04
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/121217
-
-#EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 05" tvg-logo="http://topxz.live/logos/PPV/PrimeVideo.png" group-title="CANAIS: PRIME VIDEO",PRIME VIDEO 05
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/246819
-
-#EXTINF:-1 tvg-id="" tvg-name="MAX 01 HD" tvg-logo="http://i.postimg.cc/L52gtQpb/BeDFSlD.png" group-title="CANAIS: PPV / ESPORTES",MAX 01 HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594008
-
-
-#EXTINF:-1 tvg-id="" tvg-name="MAX 02 HD" tvg-logo="http://i.postimg.cc/L52gtQpb/BeDFSlD.png" group-title="CANAIS: PPV / ESPORTES",MAX 02 HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594010
-
-
-#EXTINF:-1 tvg-id="" tvg-name="MAX 03 HD" tvg-logo="http://i.postimg.cc/L52gtQpb/BeDFSlD.png" group-title="CANAIS: PPV / ESPORTES",MAX 03 HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594012
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="MAX 04 HD" tvg-logo="http://i.postimg.cc/L52gtQpb/BeDFSlD.png" group-title="CANAIS: PPV / ESPORTES",MAX 04 HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594014
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="MAX 05 HD" tvg-logo="http://i.postimg.cc/L52gtQpb/BeDFSlD.png" group-title="CANAIS: PPV / ESPORTES",MAX 05 HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594016
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="MAX 06 HD" tvg-logo="http://i.postimg.cc/L52gtQpb/BeDFSlD.png" group-title="CANAIS: PPV / ESPORTES",MAX 06 HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594018
-
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PAULISTA (JOGO 2)" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/a/ae/Paulist%C3%A3o_Sicred_2025.png" group-title="CANAIS: PPV / ESPORTES",CAMPEONATO PAULISTA (JOGO 2)
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/592536
-
-#EXTINF:-1 tvg-id="" tvg-name="COPA VERDE 02 2023" tvg-logo="http://ccdntp.xyz:80/images/ebe5bf4fb7f8e6eb3f87645534f83ca9.png" group-title="CANAIS: PPV / ESPORTES",COPA VERDE 02 2023
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/246295
-
-#EXTINF:-1 tvg-id="" tvg-name="GALVÃO BUENO " tvg-logo="http://uploads.metropoles.com/wp-content/uploads/2022/07/30144427/Galvao-Bueno-Estado-Saude-600x400.jpg" group-title="CANAIS: PPV / ESPORTES",GALVÃO BUENO 
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/246221
-
-#EXTINF:-1 tvg-id="" tvg-name="APPLE TV 01 HD" tvg-logo="http://logodownload.org/wp-content/uploads/2023/05/apple-tv-logo.png" group-title="CANAIS: PPV / ESPORTES",APPLE TV 01 HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/257414
-
-#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS" tvg-logo="http://t.ctcdn.com.br/AtDPEWXW5U6GXWaaLXJrSPfo4BE=/720x405/smart/filters:format(webp)/i672294.jpeg" group-title="CANAIS: PPV / ESPORTES",UFC FIGHT PASS
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/225501
-
-#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS ¹" tvg-logo="http://t.ctcdn.com.br/AtDPEWXW5U6GXWaaLXJrSPfo4BE=/720x405/smart/filters:format(webp)/i672294.jpeg" group-title="CANAIS: PPV / ESPORTES",UFC FIGHT PASS ¹
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/245774
-
-#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS" tvg-logo="http://t.ctcdn.com.br/AtDPEWXW5U6GXWaaLXJrSPfo4BE=/720x405/smart/filters:format(webp)/i672294.jpeg" group-title="CANAIS: PPV / ESPORTES",UFC FIGHT PASS
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/245775
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="FURACÃO LIVE HD" tvg-logo="http://play-lh.googleusercontent.com/PnUuQvi4HwMip8nogyLl1xJzW9vfNymfAf2m8R1IEhiclKIHZvvRCEriTp4iGdb16ng" group-title="CANAIS: PPV / ESPORTES",FURACÃO LIVE HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/97881
-
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="CULTURA PA HD" tvg-logo="http://3.bp.blogspot.com/-qfKzrkmPnFo/XxLot0Cf8LI/AAAAAAAAGoQ/f4-TQf4RNskA_Uc79CCcrVh4LBEbTmxgACK4BGAYYCw/s1600/CULTURA.png" group-title="CANAIS: ABERTOS",CULTURA PA HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/21022
-
-#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="CANAL DO BOI" tvg-logo="http://lh3.googleusercontent.com/-Li5io6A9WcM/YB1E7Q-wmnI/AAAAAAAAJ5U/RvH5WwHsB_8wneFb_bKmVmSENvH7jydtACLcBGAsYHQ/CanaldoBoi.png" group-title="CANAIS: ABERTOS",CANAL DO BOI
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/89852
-
-#EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL " tvg-logo="http://im.pkweb.ca:80/images/f66ae217f4f060bda6209f704a6cd42d.png" group-title="CANAIS: ABERTOS",CANAL RURAL 
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/291515
-
-
-#EXTINF:-1 tvg-id="7" tvg-name="DISCOVERY CHANNEL HD ²" tvg-logo="http://1.bp.blogspot.com/-gO9KQOa5_VM/Xk70PmiUxFI/AAAAAAAACD0/bActYU1lpyUhbKJQrR-parzrrGHAVIEkgCLcBGAsYHQ/s1600/discoverychannel.png" group-title="CANAIS: DISCOVERY",DISCOVERY CHANNEL HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30148
-
-
-#EXTINF:-1 tvg-id="8" tvg-name="DISCOVERY  HOME & HEALTH HD ²" tvg-logo="http://1.bp.blogspot.com/-rcT1Fa94uEY/Xk70QDg9_VI/AAAAAAAACD8/dx5QGsd5jY4q9mzoovf_KlUpuD56__JwQCLcBGAsYHQ/s1600/discoveryhomehealth.png" group-title="CANAIS: DISCOVERY",DISCOVERY  HOME & HEALTH HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30149
-
-
-#EXTINF:-1 tvg-id="116" tvg-name="DISCOVERY SCIENCE HD ²" tvg-logo="http://1.bp.blogspot.com/-Nn1tKtDj6sY/Xk70QqLw0DI/AAAAAAAACEA/0RwNd0pPQzsv-qwLGMcUIBRCgLK-Vs50ACLcBGAsYHQ/s1600/discoveryscience.png" group-title="CANAIS: DISCOVERY",DISCOVERY SCIENCE HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30151
-
-
-#EXTINF:-1 tvg-id="117" tvg-name="DISCOVERY THEATER HD ²" tvg-logo="http://1.bp.blogspot.com/-zmhzL_q8BuE/Xk70Q4GLrTI/AAAAAAAACEE/5VO8WJ7wWMAq17Ha1OP0hbtgrqoF1vFrQCLcBGAsYHQ/s1600/discoverytheater.png" group-title="CANAIS: DISCOVERY",DISCOVERY THEATER HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30153
-
-
-#EXTINF:-1 tvg-id="12" tvg-name="DISCOVERY TLC HD" tvg-logo="http://2.bp.blogspot.com/-kIUVI9_YPPE/XmP60ycdyPI/AAAAAAAACPY/r6d1IMJFvDQsE-Il4Cic1BnuJN47QvI0ACK4BGAYYCw/s400/TLC.png" group-title="CANAIS: DISCOVERY",DISCOVERY TLC HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8754
-
-#EXTINF:-1 tvg-id="18" tvg-name="DISCOVERY TURBO HD ²" tvg-logo="http://1.bp.blogspot.com/--Gnd1cKRE40/Xk70Rq5scQI/AAAAAAAACEI/zJ6OQb7ctNUtUrNztpfVTBOevy9BVW6fwCLcBGAsYHQ/s1600/discoveryturbo.png" group-title="CANAIS: DISCOVERY",DISCOVERY TURBO HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30155
-
-
-#EXTINF:-1 tvg-id="118" tvg-name="DISCOVERY WORLD HD ²" tvg-logo="http://1.bp.blogspot.com/-nb1EQ-vyLXg/Xk70RwCpZSI/AAAAAAAACEM/6W2YKWTTrLEyrgWbh52Q7ixjjsGSlWnhgCLcBGAsYHQ/s1600/discoveryworld.png" group-title="CANAIS: DISCOVERY",DISCOVERY WORLD HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30157
-
-
-#EXTINF:-1 tvg-id="13" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD ²" tvg-logo="http://1.bp.blogspot.com/-Gecf4_UVW7Y/Xk70aNhiV0I/AAAAAAAACFs/1iczvzGT0XMxMqNaIWca9KCEgxaiuPuEgCLcBGAsYHQ/s1600/investigationdiscovery.png" group-title="CANAIS: DISCOVERY",ID - INVESTIGAÇÃO DISCOVERY HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8934
-
-
-#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS HD ²" tvg-logo="http://1.bp.blogspot.com/-2AIyN1vVYJ4/Xk70P2tZPSI/AAAAAAAACD4/dB9uQ47TzcAMEu4qJU-lYcaBoscJWYKhgCLcBGAsYHQ/s1600/discoverykids.png" group-title="CANAIS: INFANTIS",DISCOVERY KIDS HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/38018
-
-
-
-#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN HD ²" tvg-logo="http://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png" group-title="CANAIS: ESPN",ESPN HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/598918
-
-
-
-#EXTINF:-1 tvg-id="28" tvg-name="ESPN 2 HD ²" tvg-logo="http://4.bp.blogspot.com/-QEKZP5wwMMk/XmUOLIjM24I/AAAAAAAACVk/vYZXgfpe2V8F0hGEdRxhsJ6RACB0jei_gCK4BGAYYCw/s400/ESPN%2B2.png" group-title="CANAIS: ESPN",ESPN 2 HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30071
-
-
-#EXTINF:-1 tvg-id="39" tvg-name="ESPN 3 HD ²" tvg-logo="http://cdn.mitvstatic.com/channels/gt_espn-3_m.png" group-title="CANAIS: ESPN",ESPN 3 HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30074
-
-
-#EXTINF:-1 tvg-id="26" tvg-name="ESPN 4 HD ²" tvg-logo="http://i.postimg.cc/MZvgnrHS/espn4.png" group-title="CANAIS: ESPN",ESPN 4 HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30082
-
-
-#EXTINF:-1 tvg-id="50" tvg-name="ESPN 5 HD ²" tvg-logo="http://i.ibb.co/3d2q3VR/espn5.png" group-title="CANAIS: ESPN",ESPN 5 HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30084
-
-
-#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 6 HD ¹" tvg-logo="http://i.ibb.co/YN9gDMq/espn6.png" group-title="CANAIS: ESPN",ESPN 6 HD ¹
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30077
-
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="EVANGELIZAR HD" tvg-logo="http://1.bp.blogspot.com/-U4SJ0QX3lts/XpYaGWWXXRI/AAAAAAAACxA/NZM1vivsHpM4tvgvlqrw8lfUWydFBkdlgCK4BGAYYCw/s400/tv%2Bevangeliz.png" group-title="CANAIS: RELIGIOSOS",EVANGELIZAR HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/20532
-
-#EXTINF:-1 tvg-id="e.br" tvg-name="E! FHD" tvg-logo="http://3.bp.blogspot.com/-p11362iIZW8/XmP736_KsGI/AAAAAAAACPk/ViHbgXo2BDkd_p85Qs4rWKx-nUei_z5tQCK4BGAYYCw/s400/E.png" group-title="CANAIS: VARIEDADES",E! FHD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8782
-
-#EXTINF:-1 tvg-id="e.br" tvg-name="E! HD" tvg-logo="http://3.bp.blogspot.com/-p11362iIZW8/XmP736_KsGI/AAAAAAAACPk/ViHbgXo2BDkd_p85Qs4rWKx-nUei_z5tQCK4BGAYYCw/s400/E.png" group-title="CANAIS: VARIEDADES",E! HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8783
-
-#EXTINF:-1 tvg-id="fish.br" tvg-name="FISH TV FHD" tvg-logo="http://2.bp.blogspot.com/-WkDVS4pbZUI/XmBBcYkuGyI/AAAAAAAACMY/vQW_GWMw5sMLFhcqeHvGXlge8RqdwVMHwCK4BGAYYCw/s400/FISH%2BTV.png" group-title="CANAIS: VARIEDADES",FISH TV FHD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8807
-
-#EXTINF:-1 tvg-id="fish.br" tvg-name="FISH TV HD" tvg-logo="http://2.bp.blogspot.com/-WkDVS4pbZUI/XmBBcYkuGyI/AAAAAAAACMY/vQW_GWMw5sMLFhcqeHvGXlge8RqdwVMHwCK4BGAYYCw/s400/FISH%2BTV.png" group-title="CANAIS: VARIEDADES",FISH TV HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8808
-
-#EXTINF:-1 tvg-id="food.network.br" tvg-name="FOOD NETWORK HD" tvg-logo="http://2.bp.blogspot.com/-NV7YyPJDcdE/XmP88hrWo6I/AAAAAAAACPw/lIOC5Ros_oA7HQOzAk__lJJb7Gd_aYQMwCK4BGAYYCw/s400/FOOD.png" group-title="CANAIS: VARIEDADES",FOOD NETWORK HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8810
-
-#EXTINF:-1 tvg-id="rbs.porto.alegre.br" tvg-name="GLOBO RBS PORTO ALEGRE ¹" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="CANAIS: GLOBO CAPITAIS",GLOBO RBS PORTO ALEGRE ¹
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/21669
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT FHD H.265" tvg-logo="http://3.bp.blogspot.com/-iCbjYIDrwhE/XmP_eN3d_iI/AAAAAAAACQI/gVXF4j0G4Dwz8ZDiKaI8Qgth5DSUrcscgCK4BGAYYCw/s400/GNT.png" group-title="CANAIS: VARIEDADES",GNT FHD H.265
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/107984
-
-
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD ²" tvg-logo="http://3.bp.blogspot.com/-iCbjYIDrwhE/XmP_eN3d_iI/AAAAAAAACQI/gVXF4j0G4Dwz8ZDiKaI8Qgth5DSUrcscgCK4BGAYYCw/s400/GNT.png" group-title="CANAIS: VARIEDADES",GNT HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/66902
-
-#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS HD ²" tvg-logo="http://1.bp.blogspot.com/-JElazdWUyUo/Xk70WwgDZCI/AAAAAAAACFE/Fj8OKkbTSp03ONDEPgW9PzMlDWSmMx52QCLcBGAsYHQ/s1600/globonews.png" group-title="CANAIS: NOTÍCIAS",GLOBO NEWS HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30169
-
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB HD" tvg-logo="http://1.bp.blogspot.com/-_Sup4b2u1Fw/Xk70XYrRbSI/AAAAAAAACFM/dltfrlbQAWw-oxFUijzgnnskPf-06OVJACLcBGAsYHQ/s1600/gloob.png" group-title="CANAIS: INFANTIS",GLOOB HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8888
-
-#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="http://im.pkweb.ca:80/images/918911a351d5b29b741b68282ba16536.png" group-title="CANAIS: INFANTIS",GLOOBINHO HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/69037
-
-#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY HD" tvg-logo="http://topxz.live/logos/Documentarios/HISTORY.png" group-title="CANAIS: DOCUMENTÁRIOS",HISTORY HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/304496
-
-#EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 HD" tvg-logo="http://topxz.live/logos/Documentarios/H2.png" group-title="CANAIS: DOCUMENTÁRIOS",HISTORY 2 HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/304500
-
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD ²" tvg-logo="http://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png" group-title="CANAIS: HBO",HBO HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/31863
-
-
-#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 HD ²" tvg-logo="http://1.bp.blogspot.com/-lDifYsJ1bkU/Xk70YgIlO9I/AAAAAAAACFY/H1zNEDSJMCwy4RC_c_8ol0eGstwkb4R7gCLcBGAsYHQ/s1600/hbo2.png" group-title="CANAIS: HBO",HBO 2 HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/93899
-
-
-#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY HD ²" tvg-logo="http://3.bp.blogspot.com/-aGkAuFCyafk/Xk8yLrRrrOI/AAAAAAAACJs/i7YTgH5c8WonAcJEje8dgmN1qTB7LOZKwCK4BGAYYCw/s400/HBO%2BFAMILY.png" group-title="CANAIS: HBO",HBO FAMILY HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/31861
-
-
-#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI HD ²" tvg-logo="http://1.bp.blogspot.com/-iDOUNw5LOkk/Xk8wvRpCdNI/AAAAAAAACJU/pBSJbJCTe8QU0img-Ad3NJlUVfXGKfapQCK4BGAYYCw/s400/HBO%2BMUND.png" group-title="CANAIS: HBO",HBO MUNDI HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/93900
-
-
-#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD ²" tvg-logo="http://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png" group-title="CANAIS: HBO",HBO POP HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/93901
-
-#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE HD ²" tvg-logo="http://3.bp.blogspot.com/-PPCtBFK9aH8/Xk8zIlyv2MI/AAAAAAAACJ4/POMyrI-OG9whF3UoiOEqS431LuwZmSVGQCK4BGAYYCw/s400/HBO%2BSIGNATURE.png" group-title="CANAIS: HBO",HBO SIGNATURE HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/31869
-
-#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS HD ²" tvg-logo="http://1.bp.blogspot.com/-IaVubC3e0w4/Xk70YuLghmI/AAAAAAAACFc/dfLAePYpBlwPazBj_MIh10M25XiQDMIpgCLcBGAsYHQ/s1600/hboplus.png" group-title="CANAIS: HBO",HBO PLUS HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/31866
-
-#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME HD ¹" tvg-logo="http://3.bp.blogspot.com/-wpkT1kBB508/XmQfxsbum-I/AAAAAAAACTI/CWh7uRsUWmsEWbF8du8SchSJrkHM3-EAwCK4BGAYYCw/s400/HBO%2BXTRE.png" group-title="CANAIS: HBO",HBO XTREME HD ¹
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/31870
-
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="http://topxz.live/logos/Documentarios/HGTV.png" group-title="CANAIS: DOCUMENTÁRIOS",HGTV HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/304508
-
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD" tvg-logo="http://4.bp.blogspot.com/-ymMQqU8o9w4/XmQF4ZEEykI/AAAAAAAACRE/twbhOl3niJIoKhnYFk_-al4ULYFLKqiAgCK4BGAYYCw/s400/OFF.png" group-title="CANAIS: VARIEDADES",OFF HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8998
-
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL HD ²" tvg-logo="http://4.bp.blogspot.com/-yywnLAEjAEs/XmQVV63a0rI/AAAAAAAACR0/satlJgZrGM8POqoAFqgSvXr0mtaLccZlgCK4BGAYYCw/s400/PARAMONT.png" group-title="CANAIS: FILMES E SÉRIES",PARAMOUNT CHANNEL HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35241
-
-
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES HD ²" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" group-title="CANAIS: PREMIERE",PREMIERE CLUBES HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/54903
-
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 HD ³" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" group-title="CANAIS: PREMIERE",PREMIERE 2 HD ³
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108294
-
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 HD." tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" group-title="CANAIS: PREMIERE",PREMIERE 3 HD.
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9024
-
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD ²" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" group-title="CANAIS: PREMIERE",PREMIERE 4 HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108300
-
-#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 HD ²" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" group-title="CANAIS: PREMIERE",PREMIERE 5 HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108306
-
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 HD ²" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" group-title="CANAIS: PREMIERE",PREMIERE 6 HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108312
-
-#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 HD ²" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" group-title="CANAIS: PREMIERE",PREMIERE 7 HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/108318
-
-#EXTINF:-1 tvg-id="premiere.8.br" tvg-name="PREMIERE 8 HD" tvg-logo="http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png" group-title="CANAIS: PREMIERE",PREMIERE 8 HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9036
-
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD RS HD ¹" tvg-logo="http://1.bp.blogspot.com/-XLsOZ60zFmY/Xk70eb1f_EI/AAAAAAAACGY/AxeGba7vVX0CNxveZAuNj3QzXwaN_t8FQCLcBGAsYHQ/s1600/record.png" group-title="CANAIS: RECORD",RECORD RS HD ¹
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/160053
-
-#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS HD ¹" tvg-logo="http://4.bp.blogspot.com/-nwyV2Oapghc/XmUXf5cBdNI/AAAAAAAACWs/m5dRX93VsokD8xiO7QID692c8KvL8cMUQCK4BGAYYCw/s400/RECORD%2BNEW.png" group-title="CANAIS: NOTÍCIAS",RECORD NEWS HD ¹
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30170
-
-#EXTINF:-1 tvg-id="redetv.sp.br" tvg-name="REDETV HD ¹" tvg-logo="http://1.bp.blogspot.com/-HUc16HfletI/Xk70fFB40uI/AAAAAAAACGg/dBpqILiwhXEA3Fc8oQo36AIbTkKmkJZewCLcBGAsYHQ/s1600/redetv.png" group-title="CANAIS: REDETV",REDETV HD ¹
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/33455
-
-#EXTINF:-1 tvg-id="rede.gospel.br" tvg-name="REDE GOSPEL FHD " tvg-logo="http://upload.wikimedia.org/wikipedia/pt/thumb/b/ba/LGT_Rede_Gospel.png/235px-LGT_Rede_Gospel.png" group-title="CANAIS: RELIGIOSOS",REDE GOSPEL FHD 
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9069
-
-#EXTINF:-1 tvg-id="rede.vida.br" tvg-name="REDE VIDA HD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="CANAIS: RELIGIOSOS",REDE VIDA HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9076
-
-
-#EXTINF:-1 tvg-id="sbt.rs.br" tvg-name="SBT RS HD" tvg-logo="http://1.bp.blogspot.com/-w44XqjPTvWs/Xk70frnPuKI/AAAAAAAACGo/WLsOdZ3ANYApiYNooamMIhJAWiZwP2yLgCLcBGAsYHQ/s1600/sbt.png" group-title="CANAIS: SBT",SBT RS HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/91907
-
-#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY HD ²" tvg-logo="http://1.bp.blogspot.com/-7mzrwenGEL0/XmQY1Lhuh0I/AAAAAAAACSM/KO7bzqORN4MkRz4IYz5nmmvsvpMa7AWEQCK4BGAYYCw/s400/SONY.png" group-title="CANAIS: FILMES E SÉRIES",SONY HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35243
-
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD ²" tvg-logo="http://1.bp.blogspot.com/-YBl9_nxYYEg/Xk70g8w-e4I/AAAAAAAACGw/Dka4nvxveQomHzF23ECe1TTjbLrHmV7HQCLcBGAsYHQ/s1600/space.png" group-title="CANAIS: FILMES E SÉRIES",SPACE HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35245
-
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL HD ²" tvg-logo="http://1.bp.blogspot.com/-HwBnoP0mT_M/XmQbJQxtOmI/AAAAAAAACSY/iYDILTxas0AX_cw4uES3H3Pqb9S7aIGPgCK4BGAYYCw/s400/STUDIO.png" group-title="CANAIS: FILMES E SÉRIES",STUDIO UNIVERSAL HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35247
-
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD ²" tvg-logo="http://1.bp.blogspot.com/-3oX39I3AE5Q/Xk70hb83MHI/AAAAAAAACG0/xPBRbtnyn_oqMBPSH10X7XlVE_EEFGMbwCLcBGAsYHQ/s1600/sportv.png" group-title="CANAIS: SPORTV",SPORTV HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30127
-
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD ²" tvg-logo="http://1.bp.blogspot.com/-FNoe3QHwayQ/Xk70hTvFcCI/AAAAAAAACG4/Ee21A4oE-uAfcrongPBnTZwhkhKo_lA3ACLcBGAsYHQ/s1600/sportv2.png" group-title="CANAIS: SPORTV",SPORTV 2 HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30123
-
-#EXTINF:-1 tvg-id="32" tvg-name="SPORTV 3 HD ²" tvg-logo="http://3.bp.blogspot.com/-FUk3-ex0kBg/XmULJDTD3FI/AAAAAAAACVM/mr2-8Jagpj8GeudN3N0mAALQyyI3layTQCK4BGAYYCw/s400/SPORT%2B3.png" group-title="CANAIS: SPORTV",SPORTV 3 HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30125
-
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 4 FHD" tvg-logo="http://1.bp.blogspot.com/-3oX39I3AE5Q/Xk70hb83MHI/AAAAAAAACG0/xPBRbtnyn_oqMBPSH10X7XlVE_EEFGMbwCLcBGAsYHQ/s1600/sportv.png" group-title="CANAIS: SPORTV",SPORTV 4 FHD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/570369
-
-#EXTINF:-1 tvg-id="" tvg-name="TNT NOVELAS HD" tvg-logo="http://i.postimg.cc/XYqXKpyb/tntnovelas.png" group-title="CANAIS: FILMES E SÉRIES",TNT NOVELAS HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/275104
-
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SÉRIES HD ²" tvg-logo="http://2.bp.blogspot.com/-y7VHTV5DRjI/XmQJE5dYI6I/AAAAAAAACRc/Elj48OGVvq0c0xzuK0Ksgct432_EKU1xgCK4BGAYYCw/s400/TNT%2BSERIES.png" group-title="CANAIS: FILMES E SÉRIES",TNT SÉRIES HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35255
-
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD ²" tvg-logo="http://topxz.live/logos/Filmes_Series/TNT.png" group-title="CANAIS: FILMES E SÉRIES",TNT HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/594025
-
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="http://4.bp.blogspot.com/-pkhwk3sCDcA/XmRPXw6eTII/AAAAAAAACUY/m7bS_xJ-4w0Glc2R7wVro-mxpLtsXhz8QCK4BGAYYCw/s400/TLC.png" group-title="CANAIS: FILMES E SÉRIES",TCM HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9124
-
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION HD ²" tvg-logo="http://1.bp.blogspot.com/-pIwQ4jpCaSA/Xk70h2WvMuI/AAAAAAAACG8/H7IRhohaMuIRdiA7vvJOAP8WhylZVCw8ACLcBGAsYHQ/s1600/tcaction.png" group-title="CANAIS: TELECINE",TELECINE ACTION HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30135
-
-#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT HD ²" tvg-logo="http://1.bp.blogspot.com/-go0Q-i5-gEw/Xk70ifHdr9I/AAAAAAAACHA/PL_wMnAt6vsZQE9RyxKOag5sPDO2MxDugCLcBGAsYHQ/s1600/tccult.png" group-title="CANAIS: TELECINE",TELECINE CULT HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30137
-
-#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN HD ²" tvg-logo="http://2.bp.blogspot.com/-U4WH_IfwjL0/Xk81J1ihAbI/AAAAAAAACKE/zz1a5trjqeEu6PQbXNbrpKDe2ZXf7qWSgCK4BGAYYCw/s400/TELECINE%2BFUN.png" group-title="CANAIS: TELECINE",TELECINE FUN HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30139
-
-#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA HD ²" tvg-logo="http://1.bp.blogspot.com/-AR2UtKP1imM/Xk70ib8bFkI/AAAAAAAACHE/mopV-HfjVZoE3syeonIwTfcaDNasRwnrQCLcBGAsYHQ/s1600/tcpipoca.png" group-title="CANAIS: TELECINE",TELECINE PIPOCA HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30141
-
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM HD ¹" tvg-logo="http://1.bp.blogspot.com/-MDUGenGEDWY/Xk70ikb4lNI/AAAAAAAACHI/ppxKIf9EyBMqFa4gio-ZHs1-FKYODoDVQCLcBGAsYHQ/s1600/tcpremium.png" group-title="CANAIS: TELECINE",TELECINE PREMIUM HD ¹
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30142
-
-#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH HD ²" tvg-logo="http://1.bp.blogspot.com/-xmlHLAgtCtc/Xk70jtK4nZI/AAAAAAAACHM/YTFmhUzOS3Qca5jxGg5O5-AKGgAXFbPLQCLcBGAsYHQ/s1600/tctouch.png" group-title="CANAIS: TELECINE",TELECINE TOUCH HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30145
-
-
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST HD" tvg-logo="http://1.bp.blogspot.com/-X81PcYk1Bh4/Xk70kb6xZLI/AAAAAAAACHU/qwKEZ7lIBq0D1CVFISjLunD5_BSKoui1gCLcBGAsYHQ/s1600/tooncast.png" group-title="CANAIS: INFANTIS",TOONCAST HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9150
-
-#EXTINF:-1 tvg-id="trutv.br" tvg-name="TRU TV" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="CANAIS: VARIEDADES",TRU TV
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/12953
-
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME HD" tvg-logo="http://1.bp.blogspot.com/-wgZfmWOMWuY/XmQAYXiZ9JI/AAAAAAAACQU/Lb4tELo4R5Iv65QlzWta3f6sBcq4eg7GwCK4BGAYYCw/s400/LIFETIME.png" group-title="CANAIS: VARIEDADES",LIFETIME HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8944
-
-#EXTINF:-1 tvg-id="rede.super.br" tvg-name="REDE SUPER HD" tvg-logo="http://static.b2pteam.com/logos/religiosos/redesuper.png" group-title="CANAIS: RELIGIOSOS",REDE SUPER HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/210171
-
-#EXTINF:-1 tvg-id="Rci.br" tvg-name="TV PAI ETERNO" tvg-logo="http://lh3.googleusercontent.com/-LGmBxtx20RM/YB7tXZVubsI/AAAAAAAAKDQ/VYewkrCiMU0c8RD0cbBPr-xKEE5SOLsVACLcBGAsYHQ/TV%2BPAI%2BETERNO.png" group-title="CANAIS: RELIGIOSOS",TV PAI ETERNO
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9192
-
-#EXTINF:-1 tvg-id="tv.aparecida.br" tvg-name="TV APARECIDA HD" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="CANAIS: RELIGIOSOS",TV APARECIDA HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/30147
-
-#EXTINF:-1 tvg-id="tv.ra.tim.bum.br" tvg-name="TV RA TIM BUM" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="CANAIS: ABERTOS",TV RA TIM BUM
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9193
-
-
-
-
-#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL HD ²" tvg-logo="http://1.bp.blogspot.com/-cl-zcjepRcU/Xk70nmSkZsI/AAAAAAAACH4/ROQDJ7TdojcAxCW6SVf9B1AoxlaV8KYfgCLcBGAsYHQ/s1600/universaltv.png" group-title="CANAIS: FILMES E SÉRIES",UNIVERSAL CHANNEL HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35257
-
-#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA HD ¹" tvg-logo="http://1.bp.blogspot.com/-I0UrOovvgEE/Xk70ONZrS8I/AAAAAAAACDg/vt8pQTy83GsOKb5AjnEvmMHM80fB9uHogCLcBGAsYHQ/s1600/canalviva.png" group-title="CANAIS: VARIEDADES",VIVA HD ¹
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/33453
-
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD ²" tvg-logo="http://1.bp.blogspot.com/-KYJNJ8ofZhQ/Xk70bsae15I/AAAAAAAACF4/bu4pFKpyK3I802HKsQJEP4f8S7_KLRUXgCLcBGAsYHQ/s1600/megapix.png" group-title="CANAIS: FILMES E SÉRIES",MEGAPIX HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35239
-
-#EXTINF:-1 tvg-id="mtv.live.br" tvg-name="MTV LIVE HD" tvg-logo="http://4.bp.blogspot.com/-4OqHYBVILTY/XmQB_z6eDgI/AAAAAAAACQg/tAJcgLZMA-Ug-KRlmabY97czaYBKypDPwCK4BGAYYCw/s400/MTV.png" group-title="CANAIS: MÚSICA",MTV LIVE HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8972
-
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW HD" tvg-logo="http://2.bp.blogspot.com/-YLvYyrLM0Tc/XmQENo4hcuI/AAAAAAAACQs/jKWMWXYMuvIhu7iXvLJCm-9BEONKMcqxwCK4BGAYYCw/s400/MULTICHO.png" group-title="CANAIS: MÚSICA",MULTISHOW HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8974
-
-#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR HD" tvg-logo="http://1.bp.blogspot.com/-thB8BgXTYgk/Xk70c2Wv28I/AAAAAAAACGE/wdseOpQ-3jkj2n1e2QMaIrQnB4a70yzFQCLcBGAsYHQ/s1600/nickjr.png" group-title="CANAIS: INFANTIS",NICK JR HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8986
-
-#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON HD" tvg-logo="http://1.bp.blogspot.com/-NshftfFiUg0/Xk70chBGcxI/AAAAAAAACGA/EIQEzc-XyAkryBvxiUq8OHG2yI1Qv9RfwCLcBGAsYHQ/s1600/nick.png" group-title="CANAIS: INFANTIS",NICKELODEON HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8989
-
-#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER HD ²" tvg-logo="http://1.bp.blogspot.com/-op011tmRIXQ/Xk70oGwc0-I/AAAAAAAACH8/Pf3FY0ON8Ic7PXZDKBtbiGbLJU4imuV4wCLcBGAsYHQ/s1600/warnerchannel.png" group-title="CANAIS: FILMES E SÉRIES",WARNER HD ²
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/35259
-
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO HD" tvg-logo="http://3.bp.blogspot.com/-QGBXbuvWJkU/XmQHi8ltKRI/AAAAAAAACRQ/Zrr0EbyMyvILzvQ4_V59HIDsZdHiMtkpACK4BGAYYCw/s400/WOOHOO.png" group-title="CANAIS: INFANTIS",WOOHOO HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9224
-
-#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMOO HD" tvg-logo="http://3.bp.blogspot.com/-j5uz1zttHEo/XmUi8BK3sYI/AAAAAAAACXE/-90cQil00OUb0mhWc1mp3PjBzcunSnsdwCK4BGAYYCw/s400/zoomoo.png" group-title="CANAIS: INFANTIS",ZOOMOO HD
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/9230
-
-#EXTINF:-1 tvg-id="" tvg-name="JOGOS DE HOJE" tvg-logo="https://i.postimg.cc/cHHX4vYD/canal-futebol.png" group-title="JOGOS DE HOJE ⚽",JOGOS DE HOJE
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/339310
-
-#EXTINF:-1 tvg-id="" tvg-name="SBT+ NOVELAS" tvg-logo="http://topxz.live/logos/abertos/sbtmais.png" group-title="CANAIS: SBT +",SBT+ NOVELAS
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/365993
-
-#EXTINF:-1 tvg-id="" tvg-name="SBT+ SAUDADE" tvg-logo="http://topxz.live/logos/abertos/sbtmais.png" group-title="CANAIS: SBT +",SBT+ SAUDADE
-http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/365995
-
-____________________LIVE____________________
-TWITCH
-
-#EXTINF:-1 tvg-id="" tvg-name="PAULINHO LOKO" tvg-logo="" group-title="LIVE TWITCH",PAULINHO LOKO
-https://d1m7jfoe9zdc1j.cloudfront.net/87dfdccfe1595d7e67d4_paulinholokobr_316454265717_1762558863/720p60/index-muted-8BCPJIWXEG.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="PODEROSO BAGUAL" tvg-logo="" group-title="LIVE TWITCH",PODEROSO BAGUAL
-https://usher.ttvnw.net/api/channel/hls/poderosobagual.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiMWZhNzZjYzAtYmVkNS00MDY0LTljMDYtNWYzOTFjNGQ0OGQ0In0%3D&allow_source=true&browser_family=chrome&browser_version=142.0&cdm=wv&enable_score=true&fast_bread=true&include_unavailable=true&multigroup_video=false&os_name=Windows&os_version=NT%2010.0&p=3955207&platform=web&play_session_id=2cae93580bbfaf5e9726dec9e08f5790&player_backend=mediaplayer&player_version=1.47.0-rc.3&playlist_include_framerate=true&reassignments_supported=true&sig=aeed02c64d7f21b8259a55594c2641995b666b42&supported_codecs=av1,h265,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22poderosobagual%22%2C%22channel_id%22%3A788658421%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%223Pt0NDKpTNNxrwdmbR4XFBXxSu44P1yl%22%2C%22expires%22%3A1762932630%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22channel_home_carousel%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22177.87.32.169%22%2C%22version%22%3A3%2C%22maximum_resolution%22%3A%22FULL_HD%22%2C%22maximum_video_bitrate_kbps%22%3A12500%2C%22maximum_resolution_reasons%22%3A%7B%22QUAD_HD%22%3A%5B%22AUTHZ_NOT_LOGGED_IN%22%5D%2C%22ULTRA_HD%22%3A%5B%22AUTHZ_NOT_LOGGED_IN%22%5D%7D%2C%22maximum_video_bitrate_kbps_reasons%22%3A%5B%22AUTHZ_DISALLOWED_BITRATE%22%5D%7D&transcode_mode=cbr_v1
-
-#EXTINF:-1 tvg-id="" tvg-name="JACARE PEREIRA" tvg-logo="" group-title="LIVE TWITCH",JACARE PEREIRA
-https://d1m7jfoe9zdc1j.cloudfront.net/1a7175fee1d5c91ba915_jacarepereira_316527168884_1762744090/720p60/index-dvr.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CIRILO TKS -TWITCH-" tvg-logo="" group-title="LIVE TWITCH",CIRILO TKS
-https://d1m7jfoe9zdc1j.cloudfront.net/d1fb29fc4a9461b9099f_cirilotks_316487132405_1762905594/720p60/index-dvr.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CIRILO TKS -KICK-" tvg-logo="" group-title="LIVE TWITCH",CIRILO TKS
-https://sae13.playlist.live-video.net/v1/playlist/CqAGc_sW6iBvfUlNXuHcGJT_JSmOlfrOCPhzsODdbauuhK1_EJOEt1oW2DAqPoMB0snk-amyqqDeIKN3wWRbGd4ST50z_b5iUyXwPX-KZYkiRChiNgLLZ-yOby6w9rbu2oybsSnKC2v3BBKMvWxxauLmXQAbxuhl3bqgLE4Xz3kqyG7DXTPzMudZv4tq7hIlSbKXKsLKEuoCZBEXB5rvdro27Df2S9_7VuvXe6_cUviEXKICEhqdWsh1hxEN980jyuylwT5T05fgZ-hWyqI5U4PmacfHhDYM6TNXB_YBT0sAmILVEefQcnuPTgRrc9av5_WAKMpvAf5dJfy4NXF1aCccgcAmIQXwaNYS5TJxPFrMPGKzAWcWXRoqKp6BGXwarXpH_K3xgp7NoFP0WV6Ja9lGA-w_azTlgLlfm2CPpDuK_QnbeFznBhfP3ZMB6c4lkidiyHsGBQYCaDEiEL3pVlnBU3f3mFJYotfAmkEAY0mtfGM8H_ge8qQBljt_SgUIP0MFJ9pZ-wJ5LQQrh47_rvVVxS55jC0P9CpUmQPXIHh0HtYLZm29U4ChPifpzpTwinE3GEAfhzqk32D9d4BiHj-SVpYg5q-Orz7sw0tAUKSvuNCyv7u3wG1dsyq9_YrG3AhHJRjXmDiW6rUOgWvdjgcHBpzpXx05xmbdcJNMqJ7klHK8MIHWT3G4URrr5t7E3QskRSlWk0xM-vEYhYlwlAIENqUMWkKiIYwkAVruLJKlNdFdMCuQ33iEKn0na0O1H6nHBXQhfR58PQ_6gXql8HoDk2gwVMNLdQe8qcSDJteDQ9_IJKXSa4Fx75RzOmPChY1wUeSqVNLXyr6ZetTWPuERAvqxS6PZ4WwT_BqmjHrkSUe2Pa4Q6LHiF7AlLdh0_KR0tNIsTTU47o9A9OY8TFfScDcKYO_3CX3YJf4hf_ELzNlcoK2NmdrB4ySVZ4udlNeNjkeXt6eWyHHkYt8GhtHlsLwZ_GZYHfK3AFkgIblcbVt-Se3C59iIzHMpok4JL6Cq88sv8jMauMkmqrTGJ3nuqULVYeMC11j0AV7btmS8IOYaDMzx-Waj4nAhcz3M4yABKgl1cy1lYXN0LTIw1w0.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CHUCK" tvg-logo="" group-title="LIVE TWITCH",CHUCK
-https://usher.ttvnw.net/api/channel/hls/chuckyrp_oficial.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiMWZhNzZjYzAtYmVkNS00MDY0LTljMDYtNWYzOTFjNGQ0OGQ0In0%3D&allow_source=true&browser_family=chrome&browser_version=142.0&cdm=wv&enable_score=true&fast_bread=true&include_unavailable=true&multigroup_video=false&os_name=Windows&os_version=NT%2010.0&p=9580010&platform=web&play_session_id=5d7ba8ded7f888a28c57040ed8a122ae&player_backend=mediaplayer&player_version=1.47.0-rc.3&playlist_include_framerate=true&reassignments_supported=true&sig=a103854a18197010fc5c5571734ab1b64f44f109&supported_codecs=av1,h265,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22chuckyrp_oficial%22%2C%22channel_id%22%3A433826213%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%223Pt0NDKpTNNxrwdmbR4XFBXxSu44P1yl%22%2C%22expires%22%3A1762932576%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22channel_home_carousel%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22177.87.32.169%22%2C%22version%22%3A3%2C%22maximum_resolution%22%3A%22FULL_HD%22%2C%22maximum_video_bitrate_kbps%22%3A12500%2C%22maximum_resolution_reasons%22%3A%7B%22QUAD_HD%22%3A%5B%22AUTHZ_NOT_LOGGED_IN%22%5D%2C%22ULTRA_HD%22%3A%5B%22AUTHZ_NOT_LOGGED_IN%22%5D%7D%2C%22maximum_video_bitrate_kbps_reasons%22%3A%5B%22AUTHZ_DISALLOWED_BITRATE%22%5D%7D&transcode_mode=cbr_v1
-
-#EXTINF:-1 tvg-id="" tvg-name="TELASCO NEWS" tvg-logo="" group-title="LIVE TWITCH",TELASCO NEWS
-https://d1m7jfoe9zdc1j.cloudfront.net/1a61d819fc1573141423_telasconews_316540950516_1762907387/720p60/index-dvr.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ALCEMAR" tvg-logo="" group-title="LIVE TWITCH",ALCEMAR
-https://d1m7jfoe9zdc1j.cloudfront.net/8c62132ef8c6068e4ca9_alcemarrp_316406323702_1762900655/720p30/index-muted-9X6M6KRQEQ.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="FANHO CORINGA RP" tvg-logo="" group-title="LIVE TWITCH",FANHO RP
-https://d1m7jfoe9zdc1j.cloudfront.net/70a9282820d05dd9989d_fanhorp_316344279029_1761394747/720p60/index-muted-URB8FN77UR.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MADRUGA RP" tvg-logo="" group-title="LIVE TWITCH",MADRUGA RP
-https://d1m7jfoe9zdc1j.cloudfront.net/98465d59817caa365b44_rp_madruga_316405439606_1762895618/720p60/index-dvr.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CASSEO" tvg-logo="" group-title="LIVE TWITCH",CASSEO
-https://sae11.playlist.ttvnw.net/v1/playlist/CsEHNuMZuqZCClPmT3zk2Z4zON5rmh9dictwBo6XMsR3J2pfXPOxTP64_SnLYASR2XXbN864idbo99OjRlK5bw6M-snQ6ylwH2lmBKzh0vn1KTvHPBVPy4uW2t7MrQcGyIhyqLG75L2ZrVEoLd4T_as-8gEEVt3d7wft8DFGTRNRP0HKegN4hFEEHuAQYlPlftBKExRxvwgHIOhHbHcnJI13pfc--FkOjMsV6r6ZaIphctcH4EeUpxoqlMT9lG_SpwO-AT1BI-SEcCvkK0MkBDWjoBfJ4TIM9CqE37sLNlD9XzQsmrbC3dx4-_gT_L-HZmI-ubSPRh1kV43Ef3mSoTOcFb5unw4aSRCKEjZWzhYu3n-OgF_73QE7h9d6tz3GrAnwh8TGHWSsQLEwjgi_42xxiSaspyBaXagjt9c1rzEPUNXaDaRB_gYNBqDBQMRu_wr-kc_BeRO5_OBjBpALPHdc3xFYUuzSyWgY4HoiLEqk3llCm_1vw-DwHFGQcyUwVDmO0-7pZaSv2-R91H1dfUfS01Z7PboYSORGWJiTm_Tr0C7Dqq490nEKvX6nHtIg-L8SrKbbCEJqfTGMNp5pKL1Qz2HkD0H83iPG3LSLNcOX436hPzZ8NazTK1roQqb6gn51Ubsa8zvd6EOlutfappzwU6MgdNst8rzQkU1B-zBWvJDvj8VY5S0vCzW6RFjE-RKES-PNl6FxSyFIvd-txd2oGJtSj_L0zMnmGjWL_WiUG0RflQomRxpIE8SLRmoE8XUFxbrgLd-JHmzFThTaN9TbVxOFt2IN0zUnehWS6gKi0s69LL1JXK-YHwHY7SeR47KPUqNX0xP0f8d29fmWsRH2trts2AQmMLqTEuZs5ij6x5DAHAhQCdkJnHg39AW-7S7osbGSynibxb5fWd93nisKWUQcOG2xgwthZZwiUpLC4p_xnQuYq7T3rTf9oHR38tH-Bn0GRxcTaFewg2XRAxuOiPC0wux-syND1LBnxZjhSOTR-uYAYnJS5SfKng7OyNUGiymeLWJ2xvSEUD01XyhYIAIPw7eSCDQttAM-ncNTEJ9Iv6Y4pXHJZ_wAyH63xGcEqUwo4dP5QFTuhy16iUm2w8SVyETwUPb1qwEnfJxV8B4PERV-FfAn-Ffa43AaNwF2tUbjM7tiSw3My8QKnWQfjHp8FbPNAayuw0RGaUBvMXVJ50IXEF7Q_Q3-FOcvRMz0JHwkmJfcZSJoSJfUW_IalumY8xYtNgO6waoe-GUSptT8_2wiwF2A4PmZVGU9e0VzwBoMcL5NYRIn9GKhY9VXIAEqCXVzLWVhc3QtMjDXDQ.m3u8
 
 _______________________ADULTOS______________________________
 #EXTINF:-1 tvg-id="" tvg-name="OpenTV Vanessa Decker" tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="⭐⭐⭐Adult 18+⭐⭐⭐",OpenTV Vanessa Decker
